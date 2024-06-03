@@ -47,6 +47,8 @@
         android:layout_height="53dp"
         android:layout_marginEnd="140dp"
         android:layout_marginBottom="216dp"
+
+        android:backgroundTint="#E8000000"
         android:text="Login"
         android:textColorHint="#FFFFFF"
         android:textColorLink="#000000"
