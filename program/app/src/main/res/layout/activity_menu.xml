@@ -7,7 +7,7 @@
     android:background="#FFFFFF">
 
     <RelativeLayout
-        android:id="@+id/relativeLayout"
+        android:id="@+id/rl"
         android:layout_width="match_parent"
         android:layout_height="250dp"
         android:background="#5352ed">
@@ -40,6 +40,7 @@
             android:orientation="horizontal">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -71,6 +72,7 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview2"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -85,6 +87,7 @@
             android:orientation="horizontal">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview3"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -92,6 +95,7 @@
                 app:cardCornerRadius="20dp" />
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -106,6 +110,7 @@
             android:orientation="horizontal">
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview5"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -113,6 +118,7 @@
                 app:cardCornerRadius="20dp" />
 
             <androidx.cardview.widget.CardView
+                android:id="@+id/cdview6"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
