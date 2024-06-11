@@ -1,9 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.PMPanduan_Cabai" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-         <item name="colorPrimary">#5352ed</item>
-    </style>
-
-    <style name="Theme.PMPanduan_Cabai" parent="Base.Theme.PMPanduan_Cabai" />
-</resources>
