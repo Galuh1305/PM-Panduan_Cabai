@@ -42,6 +42,14 @@
             app:srcCompat="@drawable/c_kriting" />
 
         <TextView
+            android:id="@+id/article_subheading"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/article_subtitle"
+            android:layout_below="@id/article_heading"
+            android:textAppearance="@android:style/TextAppearance"/>
+        <TextView
             android:id="@+id/article"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
