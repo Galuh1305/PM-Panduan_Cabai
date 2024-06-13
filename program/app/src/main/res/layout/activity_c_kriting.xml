@@ -6,23 +6,6 @@
     android:layout_height="match_parent">
 
     <LinearLayout
-        android:id="@+id/linearLayout"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_margin="20dp"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="24dp">
-
-        <Button
-            android:id="@+id/back"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Kembali" />
-
-    </LinearLayout>
-
-    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="30dp"
@@ -52,22 +35,38 @@
             android:textAppearance="@android:style/TextAppearance.Large"
             android:textColor="@color/black"
             android:textStyle="bold"
-            tools:text="masuk" />
+            tools:text="Cabai Kriting" />
 
         <TextView
             android:id="@+id/article_subheading"
-            android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/article_subtitle"
             android:layout_below="@id/article_heading"
-            android:textAppearance="@android:style/TextAppearance"/>
+            android:layout_marginTop="10dp"
+            android:text="@string/article_subtitle"
+            android:textAppearance="@android:style/TextAppearance" />
+
         <TextView
             android:id="@+id/article"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:autoLink="web"
-            android:text="@string/article_text"/>
+            android:text="@string/article_text"
+            android:textAlignment="textStart" />
+
     </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="552dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

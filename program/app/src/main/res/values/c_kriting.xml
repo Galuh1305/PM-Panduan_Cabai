@@ -2,16 +2,19 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
     <string name="article_title">My First Story</string>
-    <string name="article_subtitle">A Story About Music and My World</string>
-    <string name="article_text">My First Story (atau ditulis MY FIRST STORY) adalah band rock
-        Jepang dari Shibuya, Tokyo. Dibentuk pada tahun 2011, saat ini beranggotakan Hiro (vocal),
-        Teru (gitar), Nob (bass), dan Kidz (drum). Album debut mereka "MY FIRST STORY" (2012)
-        menarik perhatian orang dan menempatkannya di festival musik besar. Album studio keempat
-        mereka ANTITHESE (2016) berada di peringkat keempat di Oricon chart.
-        For more information, see My First Story Official at www.myfirsstory.net.
-        \n\n
+    <string name="article_subtitle">Deskripsi Cabai Keriting</string>
+    <string name="article_text">Cabai Keriting adalah jenis cabai yang dikenal karena bentuknya yang unik dan rasa pedasnya yang khas.
+        \n
+        <br><b>Berikut adalah deskripsi lengkap tentang cabai keriting:</b></br>\n
+        Bentuk dan Ukuran: Cabai keriting memiliki bentuk yang panjang dan ramping dengan permukaan yang berkerut atau bergelombang. Panjangnya berkisar antara 10 hingga 15 cm. Bentuknya yang berkelok-kelok inilah yang memberi nama "keriting".
+        Warna: Warna cabai keriting bervariasi tergantung tingkat kematangannya. Saat masih muda, cabai ini berwarna hijau tua. Seiring dengan kematangan, warnanya berubah menjadi merah cerah, menunjukkan bahwa cabai sudah siap dipanen. Ada juga varian yang berubah menjadi kuning atau oranye sebelum mencapai kematangan penuh.
+        Rasa dan Aroma: Cabai keriting memiliki tingkat kepedasan sedang hingga tinggi, lebih pedas dibandingkan cabai besar namun lebih ringan dari cabai rawit. Rasa pedasnya kuat dan menyengat, sering digunakan untuk memberikan cita rasa yang tajam pada masakan. Aroma cabai keriting cukup khas, dengan sentuhan pedas yang kuat terutama ketika diiris atau dihancurkan.
+        Tekstur: Kulit cabai keriting tipis namun cukup kuat saat masih segar. Ketika dikeringkan, teksturnya menjadi rapuh. Daging buahnya cenderung keras dan renyah, dengan biji kecil yang juga menyumbang rasa pedas.
+        Penggunaan: Cabai keriting banyak digunakan dalam kuliner Indonesia sebagai bahan dasar sambal, bumbu masakan, atau sebagai hiasan makanan. Selain digunakan dalam bentuk segar, cabai keriting juga sering dikeringkan atau dibuat menjadi bubuk cabai untuk penggunaan jangka panjang. Kelezatan dan kepedasannya membuatnya menjadi pilihan favorit dalam berbagai hidangan tradisional dan modern.
+        Manfaat Kesehatan: Seperti jenis cabai lainnya, cabai keriting kaya akan vitamin C dan capsaicin, senyawa yang memberikan rasa pedas dan memiliki berbagai manfaat kesehatan. Capsaicin dikenal dapat membantu meningkatkan metabolisme, meredakan rasa sakit, dan memiliki sifat anti-inflamasi.
+        Cabai keriting adalah salah satu bahan dapur yang serbaguna, memberikan rasa pedas yang khas dan aroma yang menggugah selera, menjadikannya esensial dalam berbagai resep masakan.
 
-        <b>About:</b>
+        <b></b>
         \n\n
         <b><i>Member</i></b> \n
                 - Hiroki "Hero" Moriuchi (Moriuchi Hiro) - lead vocals (2011-present) \n
