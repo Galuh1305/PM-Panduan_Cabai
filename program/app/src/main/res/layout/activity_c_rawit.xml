@@ -14,7 +14,7 @@
         tools:layout_editor_absoluteX="24dp" >
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/back"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Kembali" />
