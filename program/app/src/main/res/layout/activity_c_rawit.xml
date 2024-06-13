@@ -31,42 +31,55 @@
         tools:layout_editor_absoluteX="45dp"
         tools:layout_editor_absoluteY="714dp" >
 
-        <TextView
-            android:id="@+id/textView5"
+        <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#FFFFFF"
-            android:fontFamily="sans-serif-black"
-            android:text="TextView"
-            android:textAlignment="center"
-            android:textAllCaps="false"
-            android:textSize="20sp"
-            tools:text="Cabai Rawit" />
+            android:layout_height="match_parent"
+            android:layout_marginBottom="80dp">
 
-        <TextView
-            android:id="@+id/textView6"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#FFFFFF"
-            android:fontFamily="sans-serif-medium"
-            android:text="TextVieww"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textSize="14sp"
-            tools:text="Cabai rawit (Capsicum frutescens) adalah salah satu jenis cabai yang memiliki ukuran kecil dan bentuk yang panjang, umumnya berwarna merah ketika matang. Cabai ini dikenal dengan tingkat kepedasannya yang tinggi, sehingga sering digunakan sebagai bumbu atau penyedap dalam masakan untuk memberikan rasa pedas yang kuat. Selain itu, cabai rawit juga memiliki aroma yang khas dan dapat memberikan sentuhan rasa yang intens pada makanan." />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/textView4"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="#FFFFFF"
-            android:fontFamily="sans-serif-medium"
-            android:text="TextVieww"
-            android:textAlignment="textStart"
-            android:textAllCaps="false"
-            android:textSize="16sp"
-            android:textStyle="bold"
-            tools:text="Jenis Jenis Cabai Rawit" />
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:fontFamily="sans-serif-black"
+                    android:text="TextView"
+                    android:textAlignment="center"
+                    android:textAllCaps="false"
+                    android:textSize="20sp"
+                    tools:text="Cabai Rawit" />
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="TextVieww"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textSize="14sp"
+                    tools:text="Cabai rawit (Capsicum frutescens) adalah salah satu jenis cabai yang memiliki ukuran kecil dan bentuk yang panjang, umumnya berwarna merah ketika matang. Cabai ini dikenal dengan tingkat kepedasannya yang tinggi, sehingga sering digunakan sebagai bumbu atau penyedap dalam masakan untuk memberikan rasa pedas yang kuat. Selain itu, cabai rawit juga memiliki aroma yang khas dan dapat memberikan sentuhan rasa yang intens pada makanan." />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:fontFamily="sans-serif-medium"
+                    android:text="TextVieww"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    tools:text="Jenis Jenis Cabai Rawit" />
+
+            </LinearLayout>
+        </ScrollView>
 
     </LinearLayout>
 
