@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Scrolling Text</string>
-    <string name="article_title">My First Story</string>
-    <string name="article_subtitle">Deskripsi Cabai Keriting</string>
+    <string name="article_title">Cabai Kriting</string>
+    <string name="article_subtitle">Deskripsi Cabai Kriting</string>
     <string name="article_text">Cabai Keriting adalah jenis cabai yang dikenal karena bentuknya yang unik dan rasa pedasnya yang khas.
         \n
         \n<br><b>Berikut adalah deskripsi lengkap tentang cabai keriting:</b></br>\n

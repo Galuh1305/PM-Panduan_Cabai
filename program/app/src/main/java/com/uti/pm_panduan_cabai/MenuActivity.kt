@@ -15,9 +15,15 @@ class MenuActivity : AppCompatActivity() {
         setContentView(R.layout.activity_menu)
 
         // Tambahkan kode untuk membuat tombol dan listener klik di sini
-        val cvInputData: CardView = findViewById(R.id.cdview1)
-        cvInputData.setOnClickListener {
+        val cvInputData1: CardView = findViewById(R.id.cdview1)
+        cvInputData1.setOnClickListener {
             val intent = Intent(this, c_rawitActivity::class.java)
+            startActivity(intent)
+        }
+        // Tambahkan kode untuk membuat tombol dan listener klik di sini
+        val cvInputData2: CardView = findViewById(R.id.cdview2)
+        cvInputData2.setOnClickListener {
+            val intent = Intent(this, c_kritingActivity::class.java)
             startActivity(intent)
         }
     }
