@@ -48,13 +48,13 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#FFFFFF"
-            android:fontFamily="sans-serif-black"
+            android:fontFamily="sans-serif-medium"
             android:text="TextVieww"
-            android:textAlignment="textStart"
+            android:textAlignment="viewStart"
             android:textAllCaps="false"
             android:textSize="14sp"
-            android:textStyle="bold"
-            tools:text="Cabai rawit" />
+            tools:text="Cabai rawit (Capsicum frutescens) adalah salah satu jenis cabai yang memiliki ukuran kecil dan bentuk yang panjang, umumnya berwarna merah ketika matang. Cabai ini dikenal dengan tingkat kepedasannya yang tinggi, sehingga sering digunakan sebagai bumbu atau penyedap dalam masakan untuk memberikan rasa pedas yang kuat. Selain itu, cabai rawit juga memiliki aroma yang khas dan dapat memberikan sentuhan rasa yang intens pada makanan." />
+
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
