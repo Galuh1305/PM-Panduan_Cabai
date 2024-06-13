@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">My First Story</string>
+    <string name="article_subtitle">A Story About Music and My World</string>
+    <string name="article_text">My First Story (atau ditulis MY FIRST STORY) adalah band rock
+        Jepang dari Shibuya, Tokyo. Dibentuk pada tahun 2011, saat ini beranggotakan Hiro (vocal),
+        Teru (gitar), Nob (bass), dan Kidz (drum). Album debut mereka "MY FIRST STORY" (2012)
+        menarik perhatian orang dan menempatkannya di festival musik besar. Album studio keempat
+        mereka ANTITHESE (2016) berada di peringkat keempat di Oricon chart.
+        For more information, see My First Story Official at www.myfirsstory.net.
+        \n\n
+
+        <b>About:</b>
+        \n\n
+        <b><i>Member</i></b> \n
+                - Hiroki "Hero" Moriuchi (Moriuchi Hiro) - lead vocals (2011-present) \n
+                - Nobuaki "Nob" Katou (Kato Nobuaki) - Bass guitar (2011-present) \n
+                - Teruki "Teru" Nishizawa (Nishizawa Teruki) - Guitar (2011-present) \n
+                - Shouhei "Kid'z" Sasaki (Sasaki Shohei) - drums (2016-present) \n
+        <b><i>Album</i></b> \n
+                - My First Story - released April, 2012 \n
+                - The story is my life - released February, 2012 \n
+                - Kyogen Neurose - released Oktober, 2014 \n
+                - Antithese - released June, 2016</string>
+</resources>
