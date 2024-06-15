@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Cabai Hijau</string>
+    <string name="article_subtitle">Deskripsi Cabai Hijau</string>
+    <string name="article_text">Cabai hijau adalah salah satu jenis cabai yang sering digunakan dalam berbagai masakan, terutama di Asia dan Amerika Latin.
+        \n
+        \n<br><b>Berikut adalah deskripsi lengkap tentang Cabai Hijau:</b></br>\n
+        \nBentuk dan Ukuran:\n
+       Cabai hijau memiliki bentuk memanjang dengan ujung yang meruncing, memberikan tampilan yang ramping dan elegan. Panjang cabai hijau biasanya berkisar antara 5 hingga 15 cm, dengan diameter sekitar 1 hingga 2 cm, tergantung pada varietasnya.
+        \nWarna:\n
+        Cabai hijau memiliki warna yang bervariasi dari hijau muda hingga hijau tua, tergantung pada jenis dan tingkat kematangannya. Warna hijau ini menunjukkan bahwa cabai masih muda dan belum sepenuhnya matang, memberikan rasa pedas yang segar dan khas.
+        \nRasa dan Aroma:\n
+        Beberapa varietas mungkin memiliki bentuk yang lebih pendek dan gemuk, sementara yang lain bisa lebih panjang dan ramping. Ukurannya yang bervariasi ini juga mempengaruhi tingkat kepedasannya, di mana cabai yang lebih kecil cenderung lebih pedas dibandingkan dengan yang lebih besar.
+        \nTekstur:\n
+        Cabai hijau memiliki tekstur yang khas yang menambah dimensi menarik pada masakan. Kulitnya halus dan berkilau saat segar, memberikan penampilan yang mengundang. Dagingnya renyah dan berair, menciptakan sensasi segar ketika digigit.
+        \nPenggunaan:\n
+        Cabai hijau memiliki penggunaan yang sangat beragam dalam dunia kuliner, berkat rasanya yang pedas namun tidak terlalu menyengat. Dalam masakan Indonesia, cabai hijau sering digunakan dalam tumisan, seperti dalam hidangan tumis sayur atau tumis daging, di mana cabai hijau memberikan rasa pedas yang menyegarkan.
+        \nManfaat Kesehatan:\n
+        Cabai hijau bukan hanya sekadar bumbu yang menambah rasa pedas pada hidangan, tetapi juga memiliki berbagai manfaat kesehatan yang signifikan. Kaya akan vitamin C, cabai hijau membantu meningkatkan sistem kekebalan tubuh dan menjaga kesehatan kulit. Selain itu, kandungan vitamin A dalam cabai hijau mendukung kesehatan mata dan fungsi kekebalan tubuh.
+        \n\n
+        <br><b>Panduan Menanam Cabai Hijau</b></br>\n
+        \n
+        Menanam cabai hijau di rumah bisa menjadi pengalaman yang menyenangkan dan bermanfaat. Pertama, pilih bibit berkualitas dan siapkan media tanam yang subur serta gembur. Lakukan penyemaian benih di dalam tray semai dan jaga kelembabannya hingga tumbuh bibit yang cukup kuat untuk dipindahkan. Saat bibit sudah memiliki 4-6 daun sejati, transplantasi ke pot atau lahan yang lebih besar dengan jarak antar tanaman sekitar 50-60 cm.\n
+        Penyiraman harus dilakukan secara teratur untuk menjaga kelembaban tanah, namun pastikan tanah tidak terlalu basah untuk menghindari pembusukan akar.
+        Pemupukan dapat dilakukan setiap 2-3 minggu dengan pupuk organik atau pupuk yang kaya nitrogen, fosfor, dan kalium untuk mendukung pertumbuhan tanaman dan buah.
+        Pemangkasan pada tunas liar atau daun layu diperlukan untuk meningkatkan sirkulasi udara dan memaksimalkan pertumbuhan buah.
+        Pengendalian hama dan penyakit juga penting; periksa tanaman secara rutin dan gunakan insektisida organik atau metode pengendalian alami jika ditemukan hama seperti kutu daun atau ulat.
+        \n
+        Lakukan penyiraman secara teratur, namun hindari penyiraman berlebihan yang dapat menyebabkan akar busuk. Berikan pupuk setiap 2-4 minggu untuk mendukung pertumbuhan tanaman. Periksa tanaman secara rutin untuk mengendalikan hama dan penyakit, serta pastikan tanaman memiliki sirkulasi udara yang baik. Cabai hijau siap dipanen setelah 70-90 hari, dan dapat dipetik dengan tangan atau gunting secara hati-hati. Dengan perawatan yang tepat, Anda dapat menikmati hasil panen cabai hijau yang melimpah dan berkualitas.
+        \n
+        </string>
+</resources>
