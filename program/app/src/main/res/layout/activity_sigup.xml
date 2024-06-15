@@ -61,6 +61,17 @@
                 android:textColor="#FDFDFD"
                 android:textSize="20sp" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:text="Daftar"
+                android:id="@+id/signup_button"
+                android:textSize="20sp"
+                android:layout_marginTop="30dp"
+                app:cornerRadius = "30dp"/>
+
         </LinearLayout>
     </LinearLayout>
 
