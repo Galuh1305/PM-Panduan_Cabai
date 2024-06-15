@@ -26,5 +26,10 @@ class MenuActivity : AppCompatActivity() {
             val intent = Intent(this, c_kritingActivity::class.java)
             startActivity(intent)
         }
+        val cvInputData3: CardView = findViewById(R.id.cdview3)
+        cvInputData3.setOnClickListener {
+            val intent = Intent(this, c_gendotActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
