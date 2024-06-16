@@ -25,6 +25,29 @@
                 android:paddingTop="10dp"
                 android:paddingBottom="80dp">
 
+                <Button
+                <?xml version="1.0" encoding="utf-8"?>
+                <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <!-- Konten lain dari layout Anda -->
+
+                    <Button
+                        android:id="@+id/button2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Kembali"
+                        android:layout_alignParentBottom="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="16dp"
+                        android:layout_marginStart="16dp"
+                        android:padding="8dp"
+                        android:textColor="#FFFFFF"
+                        android:backgroundTint="#FF0000"/>
+                </RelativeLayout>
+
+
                 <ImageView
                     android:id="@+id/imageView7"
                     android:layout_width="match_parent"
