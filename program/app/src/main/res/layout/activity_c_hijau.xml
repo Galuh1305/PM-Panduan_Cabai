@@ -1,60 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <LinearLayout
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="552dp">
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_margin="30dp"
-            android:orientation="vertical"
-            android:padding="5dp"
-            android:paddingTop="10dp"
-            android:paddingBottom="80dp">
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-            <ImageView
-                android:id="@+id/imageView8"
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="180dp"
-                app:srcCompat="@drawable/c_hijau" />
+                android:layout_height="match_parent"
+                android:layout_margin="30dp"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="80dp">
 
-            <TextView
-                android:id="@+id/article_heading"
-                tools:text="Cabai Kriting"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:background="#FFFFFF"
-                android:text="@string/article_title"
-                android:textAlignment="center"
-                android:textAppearance="@android:style/TextAppearance.Large"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+                    android:layout_weight="1"
+                    android:background="#FFFFFF"
+                    app:srcCompat="@drawable/c_hijau" />
 
-            <TextView
-                android:id="@+id/article_subheading"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/article_heading"
-                android:layout_marginTop="10dp"
-                android:text="@string/article_subtitle"
-                android:textAppearance="@android:style/TextAppearance"
-                android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/article_heading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="#FFFFFF"
+                    android:text="Cabai Hijau"
+                    android:textAlignment="center"
+                    android:textAppearance="@android:style/TextAppearance.Large"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    tools:text="Cabai Hijau" />
 
-            <TextView
-                android:id="@+id/article"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:autoLink="web"
-                android:text="@string/article_text"
-                android:textAlignment="textStart" />
+                <TextView
+                    android:id="@+id/article_subheading"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/article_heading"
+                    android:layout_marginTop="10dp"
+                    android:text="Deskripsi Cabai Hijau"
+                    android:textAppearance="@android:style/TextAppearance"
+                    android:textStyle="bold" />
 
+                <TextView
+                    android:id="@+id/article"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    android:text="Cabai hijau memiliki bentuk memanjang dengan ujung yang meruncing, memberikan tampilan yang ramping dan elegan. Panjang cabai hijau biasanya berkisar antara 5 hingga 15 cm, dengan diameter sekitar 1 hingga 2 cm, tergantung pada varietasnya."
+                    android:textAlignment="textStart" />
+
+            </LinearLayout>
         </LinearLayout>
-    </LinearLayout>
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

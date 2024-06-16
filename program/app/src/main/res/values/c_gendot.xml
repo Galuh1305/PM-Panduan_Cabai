@@ -3,27 +3,23 @@
     <string name="app_name">Scrolling Text</string>
     <string name="article_title">Cabai Gendot</string>
     <string name="article_subtitle">Deskripsi Cabai Gendot</string>
-    <string name="article_text">Cabai gendot adalah salah satu jenis cabai unik yang berasal dari Jawa Barat, Indonesia, dengan bentuk bulat dan gemuk yang menyerupai bel kecil atau paprika mini.
-        \n
-        \n<br><b>Berikut adalah deskripsi lengkap tentang Cabai Hijau:</b></br>\n
-        \nBentuk dan Ukuran:\n
+    <string name="article_text"><![CDATA[
+        Cabai gendot adalah salah satu jenis cabai unik yang berasal dari Jawa Barat, Indonesia, dengan bentuk bulat dan gemuk yang menyerupai bel kecil atau paprika mini.
+        <br><b>Berikut adalah deskripsi lengkap tentang Cabai Hijau:</b><br>
+        <br><b>Bentuk dan Ukuran:</b><br>
         Cabai gendot memiliki bentuk yang unik dan menarik, berbentuk bulat atau oval dan gemuk, berbeda dari cabai yang biasanya memanjang. Bentuknya yang bulat menyerupai bel kecil atau paprika mini, dengan ujung yang biasanya meruncing sedikit.
-        \nWarna:\n
+        <br><b>Warna:</b><br>
         Cabai gendot menampilkan variasi warna yang mencerminkan tahapan kematangan mereka. Ketika masih muda, cabai gendot memiliki warna hijau yang segar, menandakan bahwa mereka belum mencapai kematangan penuh. Warna hijau ini sering kali menunjukkan tingkat kepedasan yang lebih rendah dibandingkan dengan cabai yang sudah matang. Saat mencapai kematangan penuh, cabai gendot akan berubah menjadi warna merah cerah atau merah tua, menandakan tingkat kepedasan yang maksimal dan kesiapan untuk dipanen.
-        \nRasa dan Aroma:\n
+        <br><b>Rasa dan Aroma:</b><br>
         Cabai gendot dikenal dengan rasa pedasnya yang kuat dan aroma khasnya yang menggugah selera. Tingkat kepedasan cabai ini sangat tinggi, lebih pedas dibandingkan dengan cabai hijau biasa, menjadikannya favorit bagi para pecinta makanan pedas.
-        \nTekstur:\n
+        <br><b>Tekstur:</b><br>
         Cabai gendot memiliki tekstur yang khas yang mempengaruhi pengalaman saat dimakan. Kulitnya halus dan agak tipis, dengan warna yang bisa bervariasi dari hijau muda hingga merah tergantung pada tingkat kematangannya. Daging cabai gendot relatif tebal untuk ukuran cabai kecil, memberikan kesan padat dan berisi.
-        \nPenggunaan:\n
+        <br><b>Penggunaan:</b><br>
         Cabai gendot adalah bumbu yang sangat populer dalam masakan Indonesia, terutama karena rasa pedasnya yang kuat dan ukuran yang cocok untuk berbagai jenis hidangan. Cabai gendot sering digunakan sebagai bahan utama dalam pembuatan sambal, seperti sambal gendot atau sambal terasi, yang memberikan cita rasa pedas dan kaya rempah. Selain itu, cabai gendot juga sering digunakan sebagai bumbu masakan untuk menambahkan rasa pedas pada tumisan, sup, atau masakan kari.
-        \nManfaat Kesehatan:\n
+        <br><b>Manfaat Kesehatan:</b><br>
         Cabai gendot memiliki sejumlah manfaat kesehatan yang berlimpah berkat kandungan nutrisi dan senyawa aktifnya. Dikenal karena rasa pedasnya yang kuat, cabai gendot merupakan sumber yang kaya akan vitamin C, antioksidan, dan capsaicin. Vitamin C yang terkandung dalam cabai gendot mendukung sistem kekebalan tubuh dan kesehatan kulit, sementara antioksidan membantu melawan radikal bebas yang dapat menyebabkan kerusakan sel. Capsaicin, yang memberikan rasa pedas pada cabai, juga memiliki efek anti-inflamasi yang bermanfaat dalam mengurangi peradangan, serta dapat meningkatkan metabolisme tubuh untuk pembakaran kalori yang lebih efisien.
-        \n\n
-        <br><b>Panduan Menanam Cabai Gendot</b></br>\n
-        \n
+        <br><b>Panduan Menanam Cabai Gendot</b><br>
         Pertama, pilihlah bibit cabai gendot berkualitas dari sumber yang terpercaya atau dapat menyiapkan benih sendiri dengan cara merendamnya dalam air hangat selama 24 jam sebelum ditanam. Siapkan media tanam yang terdiri dari campuran tanah subur, kompos, dan pasir dengan perbandingan yang tepat untuk memastikan drainase yang baik. Penyemaian dapat dilakukan di dalam tray semai atau polybag kecil dengan menanam benih pada kedalaman sekitar 0,5 cm dan menjaga kelembaban tanah dengan menyiram secara teratur.
-        \n
-       Berikan pupuk organik atau pupuk NPK secara teratur untuk mendukung pertumbuhan dan perkembangan tanaman. Pantau tanaman secara rutin untuk mendeteksi hama dan penyakit, dan lakukan pengendalian secara tepat waktu jika diperlukan. Cabai gendot biasanya dapat dipanen setelah 70-90 hari setelah tanam, tergantung pada kondisi pertumbuhan dan varietasnya. Dengan mematuhi panduan ini, Anda dapat menikmati hasil panen cabai gendot yang melimpah dengan kualitas yang baik.
-        \n
-        </string>
+        Berikan pupuk organik atau pupuk NPK secara teratur untuk mendukung pertumbuhan dan perkembangan tanaman. Pantau tanaman secara rutin untuk mendeteksi hama dan penyakit, dan lakukan pengendalian secara tepat waktu jika diperlukan. Cabai gendot biasanya dapat dipanen setelah 70-90 hari setelah tanam, tergantung pada kondisi pertumbuhan dan varietasnya. Dengan mematuhi panduan ini, Anda dapat menikmati hasil panen cabai gendot yang melimpah dengan kualitas yang baik.
+    ]]></string>
 </resources>

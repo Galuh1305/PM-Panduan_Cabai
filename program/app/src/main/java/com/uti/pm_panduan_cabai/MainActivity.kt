@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_login)
 
         // EditText untuk username dan password
         val usernameEditText = findViewById<EditText>(R.id.eduser)
@@ -44,7 +44,4 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Username atau password salah", Toast.LENGTH_SHORT).show()
             }
         }
-
-
     }
-}
