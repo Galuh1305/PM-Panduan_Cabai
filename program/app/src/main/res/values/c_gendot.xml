@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Scrolling Text</string>
-    <string name="article_title">Cabai Gendot</string>
-    <string name="article_subtitle">Deskripsi Cabai Gendot</string>
-    <string name="article_text">Cabai hijau adalah salah satu jenis cabai yang umum digunakan dalam masakan di berbagai budaya kuliner.
+    <string name="app_name_c_gendot">Scrolling Text</string>
+    <string name="article_title_c_gendot">Cabai Gendot</string>
+    <string name="article_subtitle_c_gendot">Deskripsi Cabai Gendot</string>
+    <string name="article_text_c_gendot">Cabai hijau adalah salah satu jenis cabai yang umum digunakan dalam masakan di berbagai budaya kuliner.
         \n
         \n<br><b>Berikut adalah deskripsi lengkap tentang cabai hijau:</b></br>\n
-        \nBentuk dan Ukuran:\n
+        \n Bentuk dan Ukuran: \n
         Cabai hijau, atau Capsicum annuum, adalah salah satu jenis cabai yang umum digunakan dalam masakan dari berbagai budaya kuliner. Cabai ini biasanya berbentuk panjang dan runcing dengan warna hijau cerah, memiliki rasa pedas yang bervariasi namun umumnya kurang pedas dibandingkan cabai merah.
-        \nRasa dan Aroma:\n
+        \n Rasa dan Aroma:\n
         Kaya akan vitamin C, A, K, dan berbagai antioksidan, cabai hijau tidak hanya menambah rasa pada masakan tetapi juga menawarkan manfaat kesehatan. Untuk menanam cabai hijau, mulailah dengan memilih benih berkualitas dan merendamnya dalam air hangat selama 12-24 jam sebelum disemai.
         Cabai keriting banyak digunakan dalam kuliner Indonesia sebagai bahan dasar sambal, bumbu masakan, atau sebagai hiasan makanan. Selain digunakan dalam bentuk segar, cabai keriting juga sering dikeringkan atau dibuat menjadi bubuk cabai untuk penggunaan jangka panjang. Kelezatan dan kepedasannya membuatnya menjadi pilihan favorit dalam berbagai hidangan tradisional dan modern.
         \nManfaat Kesehatan:\n \n
-        <br><b>Panduan Menanam Cabai Gendot</b></br>\n
+        <br><b> Panduan Menanam Cabai Gendot </b></br>\n
         \n
         Siapkan tanah yang gembur, kaya bahan organik, dan memiliki drainase baik dengan pH antara 6.0 hingga 7.0. Semai benih dalam pot kecil atau tray semai, tanam dengan kedalaman 0.5 cm, dan pastikan tanah tetap lembab serta mendapat sinar matahari cukup. Setelah bibit memiliki 4-6 daun sejati, pindahkan ke kebun atau pot yang lebih besar dengan jarak antar tanaman sekitar 45-60 cm. Siram secara teratur, berikan pupuk organik atau pupuk NPK setiap 2-3 minggu, dan lindungi tanaman dari gulma serta hama. Cabai hijau dapat mulai dipanen sekitar 60-90 hari setelah tanam saat berwarna hijau cerah.\n
         \n
        Pemangkasan cabang yang tidak produktif, penggunaan pestisida alami, dan rotasi tanaman dapat membantu meningkatkan hasil panen dan kesehatan tanaman. Cabai hijau dapat digunakan dalam berbagai masakan seperti sambal, saus, tumisan, atau acar, menambah rasa pedas dan aroma segar pada hidangan. Dengan perawatan yang tepat, menanam cabai hijau di rumah bisa menjadi aktivitas yang bermanfaat dan menyenangkan.\n
         \n
-
-
 
         </string>
 </resources>
