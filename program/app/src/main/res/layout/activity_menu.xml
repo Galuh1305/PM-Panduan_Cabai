@@ -60,7 +60,7 @@
                         app:srcCompat="@drawable/c_rawit" />
 
                     <TextView
-                        android:id="@+id/textView3"
+                        android:id="@+id/keluar"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
@@ -92,7 +92,7 @@
                         app:srcCompat="@drawable/c_kriting" />
 
                     <TextView
-                        android:id="@+id/textView3"
+                        android:id="@+id/keluar"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
@@ -132,7 +132,7 @@
                         app:srcCompat="@drawable/c_gendot" />
 
                     <TextView
-                        android:id="@+id/textView3"
+                        android:id="@+id/keluar"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
@@ -221,7 +221,7 @@
                 app:cardCornerRadius="20dp" />
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/cdview8"
+                android:id="@+id/card_view_exit"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
@@ -234,15 +234,14 @@
                     android:orientation="vertical">
 
                     <ImageView
-                        android:id="@+id/imageView2"
+                        android:id="@+id/imggg"
                         android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
+                        android:layout_height="match_parent"
                         android:layout_weight="1"
-                        app:srcCompat="@drawable/c_gendot"
-                        tools:srcCompat="@android:drawable/ic_lock_power_off" />
+                        app:srcCompat="@android:drawable/ic_lock_power_off" />
 
                     <TextView
-                        android:id="@+id/textView3"
+                        android:id="@+id/keluar"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
