@@ -3,6 +3,7 @@ package com.uti.pm_panduan_cabai
 import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 
@@ -10,6 +11,9 @@ class MenuActivity : AppCompatActivity() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
+        var cardViewExit: CardView
+
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_menu)
@@ -36,5 +40,24 @@ class MenuActivity : AppCompatActivity() {
             val intent = Intent(this, c_hijauActivity::class.java)
             startActivity(intent)
         }
+
+
+        cardViewExit = findViewById(R.id.card_view_exit)
+        cardViewExit.setOnClickListener {
+            showExitConfirmationDialog()
+        }
+
+
+    }
+    private fun showExitConfirmationDialog() {
+        AlertDialog.Builder(this)
+            .setMessage("Apakah Anda yakin ingin keluar?")
+            .setCancelable(false)
+            .setPositiveButton("Ya") { dialog, id ->
+                finish() // Mengakhiri aktivitas
+            }
+            .setNegativeButton("Tidak", null)
+            .show()
+        TODO("Not yet implemented")
     }
 }

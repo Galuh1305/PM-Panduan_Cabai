@@ -6,6 +6,7 @@
     android:layout_height="match_parent">
 
     <ScrollView
+        android:id="@+id/app_name_kriting"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
@@ -15,7 +16,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical" >
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -31,37 +32,33 @@
                     android:layout_width="match_parent"
                     android:layout_height="180dp"
                     android:background="#FFFFFF"
-                    app:srcCompat="@drawable/c_kriting" />
+                    tools:srcCompat="@drawable/c_kriting" />
 
                 <TextView
-                    android:id="@+id/article_heading"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
                     android:background="#FFFFFF"
-                    android:text="@string/article_title"
+                    android:text="@string/article_title_c_kriting"
                     android:textAlignment="center"
                     android:textAppearance="@android:style/TextAppearance.Large"
                     android:textColor="@color/black"
                     android:textStyle="bold"
-                    tools:text="Cabai Kriting" />
+                    tools:text="@string/article_title_c_kriting" />
 
                 <TextView
-                    android:id="@+id/article_subheading"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_below="@id/article_heading"
                     android:layout_marginTop="10dp"
-                    android:text="@string/article_subtitle"
+                    android:text="@string/article_subtitle_c_kriting"
                     android:textAppearance="@android:style/TextAppearance"
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/article"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:autoLink="web"
-                    android:text="@string/article_text"
+                    android:text="@string/article_text_c_kriting"
                     android:textAlignment="textStart" />
 
             </LinearLayout>
