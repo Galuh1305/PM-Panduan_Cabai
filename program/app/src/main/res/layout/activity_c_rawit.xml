@@ -57,7 +57,7 @@
                     android:textAlignment="center"
                     android:textAllCaps="false"
                     android:textSize="20sp"
-                    tools:text="Cabai Rawit" />
+                    tools:text="@string/article_title_c_rawit" />
 
                 <TextView
                     android:id="@+id/textView6"
@@ -65,11 +65,12 @@
                     android:layout_height="wrap_content"
                     android:background="#FFFFFF"
                     android:fontFamily="sans-serif-medium"
-                    android:text="TextVieww"
+                    android:text="@string/article_subtitle_c_rawit"
                     android:textAlignment="textStart"
                     android:textAllCaps="false"
                     android:textSize="14sp"
-                    tools:text="" />
+                    android:textStyle="bold"
+                     />
 
                 <TextView
                     android:id="@+id/textView4"
@@ -77,12 +78,12 @@
                     android:layout_height="wrap_content"
                     android:background="#FFFFFF"
                     android:fontFamily="sans-serif-medium"
-                    android:text="TextVieww"
+                    android:text="@string/article_text_c_rawit"
                     android:textAlignment="textStart"
                     android:textAllCaps="false"
                     android:textSize="16sp"
-                    android:textStyle="bold"
-                    tools:text="Jenis Jenis Cabai Rawit" />
+
+                     />
 
             </LinearLayout>
         </ScrollView>
