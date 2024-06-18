@@ -12,7 +12,7 @@ public class c_rawitActivity extends Activity {
         setContentView(R.layout.activity_c_rawit);
 
         // Inisialisasi Button
-        Button buttonBack = findViewById(R.id.back_kriting);
+        Button buttonBack = findViewById(R.id.back_about1);
 
         // Set onClickListener untuk Button
         buttonBack.setOnClickListener(new View.OnClickListener() {

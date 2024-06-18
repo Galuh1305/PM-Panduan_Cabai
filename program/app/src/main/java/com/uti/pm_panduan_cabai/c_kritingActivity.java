@@ -12,7 +12,7 @@ public class c_kritingActivity extends Activity {
         setContentView(R.layout.activity_c_kriting);
 
         // Inisialisasi Button
-        Button buttonBack = findViewById(R.id.back_kriting);
+        Button buttonBack = findViewById(R.id.back_about1);
 
         // Set onClickListener untuk Button
         buttonBack.setOnClickListener(new View.OnClickListener() {
