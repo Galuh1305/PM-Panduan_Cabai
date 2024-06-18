@@ -42,7 +42,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/app_name_c_gendot2"
+                    android:id="@+id/app_name_c_rawit"
                     android:layout_width="match_parent"
                     android:layout_height="180dp"
                     tools:srcCompat="@drawable/c_gendot" />
