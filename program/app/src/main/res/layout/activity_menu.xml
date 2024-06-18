@@ -169,9 +169,9 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
                         android:fontFamily="sans-serif-medium"
+                        android:text="Cabai Hijau"
                         android:textAlignment="center"
-                        android:textSize="12sp"
-                        tools:text="Cabai Hijau" />
+                        android:textSize="12sp" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -208,9 +208,9 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
                         android:fontFamily="sans-serif-medium"
+                        android:text="Cabai Paprika"
                         android:textAlignment="center"
-                        android:textSize="12sp"
-                        tools:text="Cabai Hijau" />
+                        android:textSize="12sp" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
@@ -240,9 +240,9 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="5dp"
                         android:fontFamily="sans-serif-medium"
+                        android:text="Cabai Jalapeno"
                         android:textAlignment="center"
-                        android:textSize="12sp"
-                        tools:text="Cabai Hijau" />
+                        android:textSize="12sp" />
 
                 </LinearLayout>
             </androidx.cardview.widget.CardView>
