@@ -31,8 +31,9 @@
                     android:id="@+id/imageView5"
                     android:layout_width="match_parent"
                     android:layout_height="180dp"
-                    android:background="#FFFFFF"
-                    tools:srcCompat="@drawable/c_kriting" />
+                    android:visibility="visible"
+                    tools:srcCompat="@drawable/c_kriting"
+                    tools:visibility="visible" />
 
                 <TextView
                     android:layout_width="match_parent"
