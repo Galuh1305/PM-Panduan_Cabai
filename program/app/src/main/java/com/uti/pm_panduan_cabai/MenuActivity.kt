@@ -40,6 +40,12 @@ class MenuActivity : AppCompatActivity() {
             val intent = Intent(this, c_hijauActivity::class.java)
             startActivity(intent)
         }
+        val cvInputData5: CardView = findViewById(R.id.cdview7)
+        cvInputData5.setOnClickListener {
+            val intent = Intent(this, aboutActivity::class.java)
+            startActivity(intent)
+        }
+
 
 
         cardViewExit = findViewById(R.id.card_view_exit)
