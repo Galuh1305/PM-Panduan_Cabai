@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name_c_about">Scrolling Text</string>
-    <string name="article_title_c_about">Tentang Aplikasi</string>
-    <string name="article_subtitle_c_about">Deskripsi Cabai Kriting</string>
-    <string name="article_text_c_about">Cabai Keriting adalah jenis cabai yang dikenal karena bentuknya yang unik dan rasa pedasnya yang khas.
+    <string name="article_title_c_about">About</string>
+    <string name="article_subtitle_c_about">Tentang Aplikasi</string>
+    <string name="article_text_c_about">Selamat datang di Aplikasi Panduan Cabai! Aplikasi ini dirancang khusus untuk Anda yang ingin mengetahui segala hal tentang berbagai jenis cabai, mulai dari cara menanam, merawat, hingga memanen dengan hasil terbaik. Dengan informasi yang lengkap dan mudah diakses, aplikasi ini bertujuan untuk membantu petani, pecinta tanaman, dan siapa saja yang tertarik pada cabai untuk mencapai keberhasilan dalam budidaya cabai.
+    \n
+
 
 
 
