@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name_c_paprika">Scrolling Text</string>
+    <string name="article_title_c_paprika">Cabai Paprika</string>
+    <string name="article_subtitle_c_paprika">Deskripsi Cabai Paprika</string>
+    <string name="article_text_c_paprika">Cabai hijau adalah varietas dari tanaman cabai yang berwarna hijau saat belum matang. Cabai hijau termasuk dalam genus Capsicum dan tersedia dalam berbagai bentuk dan ukuran, tergantung varietasnya.
+    \n
+    \n<br><b>Berikut adalah deskripsi lengkap tentang cabai paprika:</b></br>\n
+    \nBentuk dan Ukuran:\n
+    Cabai hijau hadir dalam berbagai bentuk dan ukuran, tergantung pada varietasnya. Misalnya, cabai hijau besar atau green bell pepper berbentuk kotak dengan permukaan halus dan kulit tebal, biasanya memiliki panjang sekitar 10-15 cm dan diameter sekitar 7-10 cm, serta tidak pedas, sehingga sering digunakan sebagai sayuran dalam masakan. Sebaliknya, cabai hijau kecil seperti green chili pepper memiliki bentuk yang panjang dan ramping dengan ujung meruncing, berukuran sekitar 5-10 cm panjangnya dan diameter sekitar 1-2 cm, dan lebih pedas, sering digunakan dalam bumbu dan sambal.
+    \nWarna:\n
+    Cabai hijau berwarna hijau saat belum matang. Beberapa varietas berubah menjadi merah, kuning, atau oranye saat matang.
+    \nRasa dan Aroma:\n
+    Cabai hijau memiliki variasi rasa dan aroma yang bergantung pada jenis dan tingkat kematangannya. Umumnya, cabai hijau memiliki rasa yang lebih segar dan kurang pedas dibandingkan dengan cabai merah yang sudah matang. Rasa pedasnya dapat bervariasi dari yang ringan hingga cukup pedas, tergantung pada varietasnya.
+    \nTekstur:\n
+    Cabai hijau memiliki tekstur yang bervariasi tergantung pada varietas dan tahap kematangannya. Green bell pepper, atau paprika hijau, memiliki daging yang tebal dan renyah dengan kulit halus, sehingga sering digunakan dalam salad, tumisan, dan sebagai bahan isian. Cabai hijau kecil, atau green chili pepper, memiliki tekstur yang lebih tipis dan renyah saat segar, dengan kulit halus tetapi tidak setebal paprika hijau, menjadikannya pilihan yang umum untuk bumbu dan sambal.
+    \nPenggunaan:\n
+    Cabai hijau digunakan secara luas dalam berbagai masakan di seluruh dunia karena kemampuannya untuk memberikan rasa pedas yang segar dan aroma khas. Di masakan Asia, cabai hijau adalah bahan penting dalam berbagai hidangan. Di Indonesia, cabai hijau digunakan dalam sambal hijau, bumbu tumisan, dan berbagai masakan tradisional seperti sayur lodeh dan nasi goreng.
+    \nManfaat Kesehatan:\n
+    Cabai hijau tidak hanya memberikan rasa pedas yang khas dalam masakan, tetapi juga memiliki beberapa manfaat kesehatan yang signifikan. Cabai hijau mengandung senyawa aktif seperti capsaicin, yang telah diketahui memiliki efek anti-inflamasi dan antioksidan. Konsumsi cabai hijau dapat membantu meningkatkan metabolisme tubuh, karena capsaicin dapat meningkatkan pembakaran lemak dan energi. Selain itu, cabai hijau juga mengandung vitamin C yang tinggi, yang berperan penting dalam mendukung sistem kekebalan tubuh dan memperkuat fungsi sistem kekebalan.
+    \n\n
+    <br><b>Panduan Menanam Cabai Hijau</b></br>\n
+    \n
+    Menanam cabai hijau bisa menjadi pengalaman yang memuaskan, terutama jika Anda menyukai masakan pedas dan ingin menikmati hasil panen sendiri. Pertama-tama, pilihlah lokasi yang mendapat sinar matahari cukup, minimal 6-8 jam sinar matahari langsung setiap hari, dengan tanah yang memiliki drainase baik. Cabai hijau biasanya tumbuh baik di tanah yang subur, dengan pH antara 6-7. Persiapkan tanah dengan baik dengan memperbaiki struktur tanah dan memberikan pupuk organik untuk memberikan nutrisi yang cukup kepada tanaman.
+    Pilih varietas cabai hijau yang sesuai dengan iklim dan lingkungan tumbuh di wilayah Anda. Mulailah menanam bibit dalam pot atau persemaian sekitar 6-8 minggu sebelum musim tanam utama, tergantung pada iklim lokal Anda. Setelah bibit telah tumbuh kuat dan mencapai ketinggian sekitar 15-20 cm, Anda bisa mentransplantasikannya ke lokasi tanam utama di kebun atau dalam pot yang lebih besar.\n
+    \n
+   Selama periode pertumbuhan, pastikan untuk menyiram tanaman secara teratur, terutama saat cuaca panas dan kering, tetapi hindari overwatering yang bisa menyebabkan akar membusuk. Gunakan pupuk yang sesuai untuk tanaman cabai, terutama yang kaya akan nitrogen, fosfor, dan kalium untuk mendukung pertumbuhan dan produksi buah yang baik
+    \n
+  Panen cabai hijau biasanya dimulai sekitar 8-12 minggu setelah penanaman bibit, tergantung pada varietasnya. Pilih buah yang masih muda dan hijau untuk rasa yang lebih segar dan sedikit pedas. Panen secara teratur akan mendorong tanaman untuk terus berproduksi selama musim tanam.\n
+    \n
 
+
+</string>
 
 </resources>
